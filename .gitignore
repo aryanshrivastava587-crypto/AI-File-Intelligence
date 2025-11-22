@@ -1,1 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+venv.bak/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and dynamic folders
+logs/
+sorted/
+
+# Watch folder (runtime workspace)
+watch_folder/
+
+# Environment variables
+.env
 
