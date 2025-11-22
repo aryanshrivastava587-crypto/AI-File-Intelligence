@@ -1,0 +1,3 @@
+Sample data file for AI-Driven File Intelligence project. This file demonstrates the summarization and sorting flow.
+
+Line2: testing summarization.
